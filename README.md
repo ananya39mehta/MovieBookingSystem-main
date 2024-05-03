@@ -5,8 +5,8 @@ This project implements a movie booking system for cinema halls named Neuplex. I
 <h2>Features</h2>
 
 <li>Browse movies currently playing at Neuplex cinemas.
-<li></li>View show timings and available seats for each movie.
-<li></li>Select seats and book tickets for a chosen show.
+<li>View show timings and available seats for each movie.
+<li>Select seats and book tickets for a chosen show.
 
 
 <h2>Technologies Used</h2>
@@ -38,7 +38,9 @@ Update the following properties with your MySQL credentials:
 Properties
 
 spring.datasource.url=jdbc:mysql://localhost:3306/neuplex_db
+
 spring.datasource.username=your_username
+
 spring.datasource.password=your_password
 
 
