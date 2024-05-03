@@ -1,0 +1,20 @@
+/* Styling for the GridPane */
+.Grid-pane {
+    -fx-padding: 10px; /* Add padding */
+    -fx-background-color: #f0f0f0; /* Set background color */
+    -fx-background-image: url('file:///C:/Users/asus/Downloads/Java%20Project/Booking-Ticket-Booking-System-in-Java-main/Cinema_Movie_Booking_System-master/src/Image/WELCOME.jpg'); /* Set background image */
+    -fx-background-position: center; /* Center the background image */
+    -fx-background-opacity: 0.1; /* Set background image opacity (0.0 = fully transparent, 1.0 = fully opaque) */
+}
+
+/* Styling for the Button */
+.button-sign-in {
+    -fx-background-color: #fee6e3;
+
+}
+
+
+/* Styling for the Exit Button */
+.button-exit {
+
+}
