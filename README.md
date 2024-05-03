@@ -43,6 +43,18 @@ spring.datasource.username=your_username
 
 spring.datasource.password=your_password
 
+<h2>Output</h2>
+
+
+![image](https://github.com/ananya39mehta/MovieBookingSystem-main/assets/121433203/9ccabc33-69d9-4ec7-a26b-7be7d79970fc)
+
+
+![image](https://github.com/ananya39mehta/MovieBookingSystem-main/assets/121433203/8a61f0b9-ed31-4e53-9302-6a8177ed2f4d)
+
+
+![image](https://github.com/ananya39mehta/MovieBookingSystem-main/assets/121433203/48365ca7-8af5-46b4-bc8e-fb102a844f27)
+
+
 
 
 
