@@ -20,6 +20,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
 
+/*Declares several instance variables representing GUI components and data structures to manage movie selection, ticket booking, and display.*/
 public class CustomerScreenController implements Initializable, SharedVariables {
     public static Person person= new Person();
     public HBox moviesCollection;
