@@ -54,6 +54,9 @@ spring.datasource.password=your_password
 
 ![image](https://github.com/ananya39mehta/MovieBookingSystem-main/assets/121433203/48365ca7-8af5-46b4-bc8e-fb102a844f27)
 
+![image](https://github.com/ananya39mehta/MovieBookingSystem-main/assets/121433203/f5914aa2-2e0b-4652-b009-08d61f31cf2a)
+
+
 
 <h2>End </h2>
 
