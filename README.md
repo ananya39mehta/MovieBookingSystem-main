@@ -2,13 +2,14 @@
 
 This project implements a movie booking system for cinema halls named Neuplex. It's built with Java using JavaFX for the user interface and a MySQL database for data storage.
 
-Features
+<h2>Features</h2>
 
 <li>Browse movies currently playing at Neuplex cinemas.
 <li></li>View show timings and available seats for each movie.
 <li></li>Select seats and book tickets for a chosen show.
 
-Technologies Used
+
+<h2>Technologies Used</h2>
 
 <li>Java 21
   
@@ -16,7 +17,8 @@ Technologies Used
   
 <li>MySQL Connector/J 8
 
-Prerequisites
+
+<h2>Prerequisites</h2>
 
 <li>Java 21
   
