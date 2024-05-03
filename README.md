@@ -25,7 +25,7 @@ Setup
 Clone this repository:
 
 Bash
-git clone https://github.com/your-username/MovieBookingSystem-main.git
+git clone https://github.com/ananya39mehta/MovieBookingSystem-main.git
 
 Update the following properties with your MySQL credentials:
 
