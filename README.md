@@ -1,4 +1,5 @@
-Neuplex: Movie Booking System for Cinemas
+<h1>Neuplex: Movie Booking System for Cinemas</h1>
+
 This project implements a movie booking system for cinema halls named Neuplex. It's built with Java using JavaFX for the user interface and a MySQL database for data storage.
 
 Features
