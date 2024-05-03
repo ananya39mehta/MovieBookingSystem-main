@@ -11,13 +11,17 @@ Features
 Technologies Used
 
 <li>Java 21
+  
 <li>JavaFX 17
+  
 <li>MySQL Connector/J 8
 
 Prerequisites
 
 <li>Java 21
+  
 <li>MySQL database server (https://dev.mysql.com/downloads/mysql/)
+  
 <li>JavaFX SDK 17 (usually included with Java installation)
 
 Setup
